@@ -11,6 +11,12 @@ public class Solution {
      * @return
      */
     public String findLongestConsecutiveSet(Integer[] allNumbers){
+        // take in the numbers
+        // turn it into string
+        // return the string with longest set of numbers
+        // return as "Longest Set: {}"
+
+
         return null;
     }
 }
